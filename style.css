@@ -1,0 +1,51 @@
+header {
+    background: gold; 
+    padding: 10px;
+    text-shadow: 1px 1px 1px blue;
+    font-size: 36;
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+footer {
+    color: rgb(5, 8, 5);
+    font-size: 24;
+    font-weight: bold;
+    font-family: "arial", Times, serif;
+
+}
+title {align-content: center}
+h1 {
+    color: purple;
+    font-style: normal;
+    font: size 48;
+    font-family: "arial", Times, serif;
+}
+
+p{
+    font-family: "arial"; 
+    font-weight: bold;
+
+
+}
+li{
+    font-size: 24;
+    font-weight: bold;
+    font-family: arial;
+}
+body {
+
+}
+
+#background-img {
+    background-image: url("ult-web.gif");
+    opacity: 1.0;
+}
+
+
+#content {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
